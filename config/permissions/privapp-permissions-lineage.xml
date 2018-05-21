@@ -90,7 +90,7 @@
         <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
     </privapp-permissions>
 
-    <privapp-permissions package="org.lineageos.trebuchet">
+    <privapp-permissions package="com.android.launcher3">
         <permission name="android.permission.BIND_APPWIDGET"/>
     </privapp-permissions>
 

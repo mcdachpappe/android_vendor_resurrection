@@ -157,7 +157,7 @@ PRODUCT_PACKAGES += \
     LineageSettingsProvider \
     Eleven \
     ExactCalculator \
-    Trebuchet \
+    Launcher3 \
     LockClock \
     Updater \
     SnapdragonCamera2 \
